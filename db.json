@@ -1,22 +1,70 @@
 {
     "cases": [
         {
-            "id": 1,
-            "title": "Case 1",
-            "description": "This is the first case",
-            "image": "https://via.placeholder.com/600x400"
-        },
-        {
-            "id": 2,
-            "title": "Case 2",
-            "description": "This is the second case",
-            "image": "https://via.placeholder.com/600x400"
-        },
-        {
-            "id": 3,
-            "title": "Case 3",
-            "description": "This is the third case",
-            "image": "https://via.placeholder.com/600x400"
-        }
+            "sagNummer": "BK-2024-0916",
+            "status": "Afsluttet",
+            "afsluttetDato": "2024-09-15",
+            "person": {
+              "fornavn": "Mette",
+              "efternavn": "Nielsen",
+              "fødselsdato": "1985-03-22",
+              "cprNummer": "220385-XXXX",
+              "nuværendeAdresse": {
+                "vej": "Bredgade 17",
+                "postnummer": "1260",
+                "by": "København K",
+                "land": "Danmark"
+              }
+            },
+            "udførteKontroller": [
+              {
+                "type": "Straffeattest",
+                "status": "Ren",
+                "detaljer": "Ingen registreringer i Det Centrale Kriminalregister."
+              },
+              {
+                "type": "Ansættelsesverifikation",
+                "status": "Bekræftet",
+                "detaljer": [
+                  {
+                    "arbejdsgiver": "Danske Tech Løsninger A/S",
+                    "stilling": "Senior Udvikler",
+                    "startDato": "2018-06-01",
+                    "slutDato": "Nu",
+                    "bekræftetAf": "HR Afdeling"
+                  },
+                  {
+                    "arbejdsgiver": "Nordisk Softwarehouse ApS",
+                    "stilling": "Junior Udvikler",
+                    "startDato": "2015-03-15",
+                    "slutDato": "2018-05-30",
+                    "bekræftetAf": "Tidligere Chef"
+                  }
+                ]
+              },
+              {
+                "type": "Uddannelsesverifikation",
+                "status": "Bekræftet",
+                "detaljer": {
+                  "institution": "Københavns Universitet",
+                  "grad": "Cand.scient. i Datalogi",
+                  "afslutningsdato": "2015-06-30",
+                  "bekræftetAf": "Universitets Administration"
+                }
+              },
+              {
+                "type": "Kreditvurdering",
+                "status": "Godkendt",
+                "detaljer": "Ingen anmærkninger i RKI. Ingen aktuelle gældssager."
+              },
+              {
+                "type": "Kørekort",
+                "status": "Gyldigt",
+                "detaljer": "Gyldigt dansk kørekort kategori B. Ingen klip i kørekortet de seneste 3 år."
+              }
+            ],
+            "yderligereNoter": "Kandidaten har leveret al anmodet dokumentation rettidigt. Alle væsentlige kontroller er kommet tilbage uden anmærkninger eller er blevet bekræftet.",
+            "anbefaling": "Fortsæt ansættelsesprocessen"
+          }
     ]
 }
