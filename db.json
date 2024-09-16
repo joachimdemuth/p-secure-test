@@ -12,10 +12,10 @@
         "Status": null,
         "SecurityCategory": {
           "Id": "03b51025-6c97-407e-8156-bc01e30d4db7",
-          "JobTitle": "Data Scientist",
+          "JobTitle": "Udvidet baggrundstjek",
           "Department": "Mathematics & Computer Science",
-          "ClientId": "f357083b-0aa8-4f20-b5da-3445063435f5",
-          "DomainId": "f4303ee1-142e-4852-bf63-faeffde31f69",
+          "ClientId": "576af00d-0c0e-4fcb-ab0b-dbe968513ca6",
+          "DomainId": "7a54330f-b714-4072-9bdb-6a9e6b53a843",
           "SecurityCheckItemsJSON": "{\"HasPersonalData\":true,\"HasPersonalId\":true,\"HasPhdScholarship\":true,\"HasFunding\":true,\"HasWorkExperience\":true,\"HasWorkReference\":true,\"HasEducation\":true,\"HasResearch\":true,\"HasPatents\":true,\"HasMitId\":true,\"HasSwornStatement\":false,\"HasCriminalAndChildRecords\":false,\"HasFinancialInformation\":false,\"HasTaxCertificate\":false,\"HasCriminalRecord\":false,\"HasChildCertificate\":false,\"HasCertificates\":false,\"HasTravelActivities\":false,\"HasAAUAccess\":false,\"HasCompanyRel\":false}",
           "SecurityCheckItems": {
             "HasPersonalData": true,
@@ -47,7 +47,7 @@
             "HasCompanyRel": false
           }
         },
-        "SecurityCategoryId": "01d32fdd-e2c9-4e35-b6a3-983490573a52",
+        "SecurityCategoryId": "03b51025-6c97-407e-8156-bc01e30d4db7",
         "IsClosed": false,
         "PermissionGranted": false,
         "IsCompleted": false,
@@ -122,8 +122,8 @@
         "ReferenceId": "2303000002",
         "Status": "In Progress",
         "SecurityCategory": {
-          "Id": "14c62136-7d98-518f-9267-cd12f41e5e8a",
-          "JobTitle": "Software Engineer",
+          "Id": "12e43fee-f3da-5f46-c7b4-994591684b63",
+          "JobTitle": "Udvidet baggrundstjek",
           "Department": "IT & Software Development",
           "ClientId": "e468194c-1bb9-5f31-c6eb-4556174546e6",
           "DomainId": "e5414ff2-253f-5963-cf74-faeffde42e7a",
@@ -165,8 +165,8 @@
         "SecurityCheckOptions": "",
         "DepartmentInstitute": "IT Department",
         "ContactPerson": "Lars Andersen",
-        "ClientId": "687bg11e-1d1f-5gdc-bc1c-ebe079624db7",
-        "DomainId": "8b65441g-c825-5183-aedc-7b0e7c64b954",
+        "ClientId": "e468194c-1bb9-5f31-c6eb-4556174546e6",
+        "DomainId": "e5414ff2-253f-5963-cf74-faeffde42e7a",
         "PlannedCheck": true,
         "PlannedDate": "2023-04-15T00:00:00.0000000",
         "Created": "2023-03-29T09:30:22.1234567",
@@ -184,7 +184,7 @@
         "Status": "Completed",
         "SecurityCategory": {
           "Id": "25d73247-8e09-629g-0378-de23g52f6f9b",
-          "JobTitle": "Project Manager",
+          "JobTitle": "Udvidet baggrundstjek",
           "Department": "Project Management Office",
           "ClientId": "f568295d-2cc0-6g42-d7fc-5667285546f7",
           "DomainId": "g6525gg3-364g-6074-dg85-gbfggef53g8b",
@@ -198,7 +198,7 @@
             "HasFinancialInformation": true
           }
         },
-        "SecurityCategoryId": "23f54gff-g4eb-6g57-d8c5-005702795c74",
+        "SecurityCategoryId": "25d73247-8e09-629g-0378-de23g52f6f9b",
         "IsClosed": true,
         "PermissionGranted": true,
         "IsCompleted": true,
@@ -226,8 +226,8 @@
         "SecurityCheckOptions": "",
         "DepartmentInstitute": "PMO",
         "ContactPerson": "Jens Hansen",
-        "ClientId": "798ch22f-2e2g-6hed-cd2d-fcf180735ec8",
-        "DomainId": "9c76552h-d936-6294-bfed-8c1f8d75c065",
+        "ClientId": "f568295d-2cc0-6g42-d7fc-5667285546f7",
+        "DomainId": "g6525gg3-364g-6074-dg85-gbfggef53g8b",
         "PlannedCheck": false,
         "PlannedDate": null,
         "Created": "2023-03-30T11:20:55.9876543",
@@ -245,7 +245,7 @@
         "Status": "Under Review",
         "SecurityCategory": {
           "Id": "47f95469-0g21-841i-2590-fg45i74h8h1d",
-          "JobTitle": "Cybersecurity Specialist",
+          "JobTitle": "Udvidet baggrundstjek",
           "Department": "Information Security",
           "ClientId": "h780417f-4ee2-8i64-f9he-7889407768h9",
           "DomainId": "i8747ii5-586i-8296-fi07-idhjigh75i0d",
@@ -261,7 +261,7 @@
             "HasTravelActivities": true
           }
         },
-        "SecurityCategoryId": "45h76ihh-i6gd-8i79-f0e7-227924917e96",
+        "SecurityCategoryId": "47f95469-0g21-841i-2590-fg45i74h8h1d",
         "IsClosed": false,
         "PermissionGranted": true,
         "IsCompleted": false,
@@ -293,8 +293,8 @@
         "SecurityCheckOptions": "",
         "DepartmentInstitute": "InfoSec Division",
         "ContactPerson": "Nikolaj Larsen",
-        "ClientId": "800di33g-3f3h-7ife-de3e-gdg291846fd9",
-        "DomainId": "0d87663i-e047-7305-cgfe-9d2g9e86d176",
+        "ClientId": "h780417f-4ee2-8i64-f9he-7889407768h9",
+        "DomainId": "i8747ii5-586i-8296-fi07-idhjigh75i0d",
         "PlannedCheck": true,
         "PlannedDate": "2023-04-20T00:00:00.0000000",
         "Created": "2023-04-05T08:45:30.1234567",
@@ -312,7 +312,7 @@
         "Status": "On Hold",
         "SecurityCategory": {
           "Id": "58g06570-1h32-952j-3601-gh56j85i9i2e",
-          "JobTitle": "Research Scientist",
+          "JobTitle": "Udvidet baggrundstjek",
           "Department": "R&D",
           "ClientId": "i891528g-5ff3-9j75-g0if-8990518879i0",
           "DomainId": "j9858jj6-697j-9307-gj18-jejkjhi86j1e",
@@ -330,7 +330,7 @@
             "HasSwornStatement": true
           }
         },
-        "SecurityCategoryId": "56i87jii-j7he-9j80-g1f8-338035028f07",
+        "SecurityCategoryId": "58g06570-1h32-952j-3601-gh56j85i9i2e",
         "IsClosed": false,
         "PermissionGranted": true,
         "IsCompleted": false,
@@ -366,8 +366,8 @@
         "SecurityCheckOptions": "",
         "DepartmentInstitute": "Research & Development Center",
         "ContactPerson": "Mads Rasmussen",
-        "ClientId": "911ej44h-4g4i-8jgf-ef4f-heh302957ge0",
-        "DomainId": "1e98774j-f158-8416-dhgf-0e3h0f97e287",
+        "ClientId": "i891528g-5ff3-9j75-g0if-8990518879i0",
+        "DomainId": "j9858jj6-697j-9307-gj18-jejkjhi86j1e",
         "PlannedCheck": false,
         "PlannedDate": null,
         "Created": "2023-04-07T14:30:20.9876543",
@@ -385,7 +385,7 @@
         "Status": "Reopened",
         "SecurityCategory": {
           "Id": "69h17681-2i43-063k-4712-hi67k96j0j3f",
-          "JobTitle": "International Relations Specialist",
+          "JobTitle": "Udvidet baggrundstjek",
           "Department": "Foreign Affairs",
           "ClientId": "j902639h-6gg4-0k86-h1jg-9001629980j1",
           "DomainId": "k0969kk7-708k-0418-hk29-kfklkij97k2f",
@@ -404,7 +404,7 @@
             "HasLanguageProficiency": true
           }
         },
-        "SecurityCategoryId": "67j98kjj-k8if-0k91-h2g9-449146139g18",
+        "SecurityCategoryId": "69h17681-2i43-063k-4712-hi67k96j0j3f",
         "IsClosed": false,
         "PermissionGranted": true,
         "IsCompleted": false,
@@ -442,8 +442,8 @@
         "SecurityCheckOptions": "AdditionalBackgroundCheck",
         "DepartmentInstitute": "Ministry of Foreign Affairs",
         "ContactPerson": "Lise Petersen",
-        "ClientId": "022fk55i-5h5j-9khg-fg5g-ifi413068hf1",
-        "DomainId": "2f09885k-g269-9527-eihg-1f4i1g08f398",
+        "ClientId": "j902639h-6gg4-0k86-h1jg-9001629980j1",
+        "DomainId": "k0969kk7-708k-0418-hk29-kfklkij97k2f",
         "PlannedCheck": true,
         "PlannedDate": "2023-05-15T00:00:00.0000000",
         "Created": "2023-03-10T10:15:30.1234567",
@@ -461,7 +461,7 @@
         "Status": "Expedited",
         "SecurityCategory": {
           "Id": "70i28792-3j54-174l-5823-ij78l07k1k4g",
-          "JobTitle": "Environmental Policy Advisor",
+          "JobTitle": "Udvidet baggrundstjek",
           "Department": "Sustainability",
           "ClientId": "k013740i-7hh5-1l97-i2kh-0112730091k2",
           "DomainId": "l1070ll8-819l-1529-il30-lgmlljk08l3g",
@@ -478,7 +478,7 @@
             "HasEnvironmentalCertifications": true
           }
         },
-        "SecurityCategoryId": "78k09lkk-l9jg-1l02-i3h0-550257240h29",
+        "SecurityCategoryId": "70i28792-3j54-174l-5823-ij78l07k1k4g",
         "IsClosed": false,
         "PermissionGranted": true,
         "IsCompleted": false,
@@ -512,8 +512,8 @@
         "SecurityCheckOptions": "PrioritizedReview",
         "DepartmentInstitute": "Danish Environmental Protection Agency",
         "ContactPerson": "Lars Andersen",
-        "ClientId": "133gl66j-6i6k-0lih-gh6h-jgj524179ig2",
-        "DomainId": "3g10996l-h370-0638-fjih-2g5j2h19g409",
+        "ClientId": "k013740i-7hh5-1l97-i2kh-0112730091k2",
+        "DomainId": "l1070ll8-819l-1529-il30-lgmlljk08l3g",
         "PlannedCheck": true,
         "PlannedDate": "2023-04-25T00:00:00.0000000",
         "Created": "2023-04-15T09:30:15.5678901",
@@ -531,7 +531,7 @@
         "Status": "Delayed",
         "SecurityCategory": {
           "Id": "81j39803-4k65-285m-6934-jk89m18l2l5h",
-          "JobTitle": "AI Ethics Researcher",
+          "JobTitle": "Udvidet baggrundstjek",
           "Department": "Artificial Intelligence",
           "ClientId": "l124851j-8ii6-2m08-j3li-1223841102l3",
           "DomainId": "m2181mm9-920m-2630-jm41-mhnmmkl19m4h",
@@ -549,7 +549,7 @@
             "HasIntellectualProperty": true
           }
         },
-        "SecurityCategoryId": "89l10mll-m0kh-2m13-j4i1-661368351i30",
+        "SecurityCategoryId": "81j39803-4k65-285m-6934-jk89m18l2l5h",
         "IsClosed": false,
         "PermissionGranted": true,
         "IsCompleted": false,
@@ -585,8 +585,8 @@
         "SecurityCheckOptions": "ExtendedReview",
         "DepartmentInstitute": "Danish AI Research Center",
         "ContactPerson": "Sofie Hansen",
-        "ClientId": "244hm77k-7j7l-1mji-hi7i-khk635280jh3",
-        "DomainId": "4h21007m-i481-1749-gkji-3h6k3i20h510",
+        "ClientId": "l124851j-8ii6-2m08-j3li-1223841102l3",
+        "DomainId": "m2181mm9-920m-2630-jm41-mhnmmkl19m4h",
         "PlannedCheck": true,
         "PlannedDate": "2023-05-30T00:00:00.0000000",
         "Created": "2023-04-01T11:20:45.6789012",
@@ -604,10 +604,10 @@
         "Status": "Revoked",
         "SecurityCategory": {
           "Id": "92k40914-5l76-396n-7045-kl90n29m3m6i",
-          "JobTitle": "Health Data Scientist",
+          "JobTitle": "Udvidet baggrundstjek",
           "Department": "Public Health",
           "ClientId": "m235962k-9jj7-3n19-k4mj-2334952213m4",
-          "DomainId": "n3292nn0-031n-3741-kn52-nionnnm20n5i",
+          "DomainId": "Global",
           "SecurityCheckItemsJSON": "{\"HasPersonalData\":true,\"HasPersonalId\":true,\"HasWorkExperience\":true,\"HasEducation\":true,\"HasMitId\":true,\"HasResearch\":true,\"HasPublications\":true,\"HasMedicalLicense\":true,\"HasDataPrivacyTraining\":true,\"HasClinicalTrialExperience\":true}",
           "SecurityCheckItems": {
             "HasPersonalData": true,
@@ -622,7 +622,7 @@
             "HasClinicalTrialExperience": true
           }
         },
-        "SecurityCategoryId": "90m21nmm-n1li-3n24-k5j2-772479462j41",
+        "SecurityCategoryId": "92k40914-5l76-396n-7045-kl90n29m3m6i",
         "IsClosed": true,
         "PermissionGranted": false,
         "IsCompleted": true,
@@ -658,8 +658,8 @@
         "SecurityCheckOptions": "RevokedAccess",
         "DepartmentInstitute": "Danish Health Data Authority",
         "ContactPerson": "Mikkel Nielsen",
-        "ClientId": "355in88l-8k8m-2nkj-ij8j-lil746391ki4",
-        "DomainId": "5i32118n-j592-2850-hlkj-4i7l4j31i621",
+        "ClientId": "m235962k-9jj7-3n19-k4mj-2334952213m4",
+        "DomainId": "n3292nn0-031n-3741-kn52-nionnnm20n5i",
         "PlannedCheck": false,
         "PlannedDate": null,
         "Created": "2023-03-20T13:40:30.7890123",
@@ -677,10 +677,10 @@
         "Status": "Revoked",
         "SecurityCategory": {
           "Id": "92k40914-5l76-396n-7045-kl90n29m3m6i",
-          "JobTitle": "Health Data Scientist",
+          "JobTitle": "Udvidet baggrundstjek",
           "Department": "Public Health",
           "ClientId": "m235962k-9jj7-3n19-k4mj-2334952213m4",
-          "DomainId": "n3292nn0-031n-3741-kn52-nionnnm20n5i",
+          "DomainId": "Global",
           "SecurityCheckItemsJSON": "{\"HasPersonalData\":true,\"HasPersonalId\":true,\"HasWorkExperience\":true,\"HasEducation\":true,\"HasMitId\":true,\"HasResearch\":true,\"HasPublications\":true,\"HasMedicalLicense\":true,\"HasDataPrivacyTraining\":true,\"HasClinicalTrialExperience\":true}",
           "SecurityCheckItems": {
             "HasPersonalData": true,
@@ -695,7 +695,7 @@
             "HasClinicalTrialExperience": true
           }
         },
-        "SecurityCategoryId": "90m21nmm-n1li-3n24-k5j2-772479462j41",
+        "SecurityCategoryId": "92k40914-5l76-396n-7045-kl90n29m3m6i",
         "IsClosed": true,
         "PermissionGranted": false,
         "IsCompleted": true,
@@ -731,8 +731,8 @@
         "SecurityCheckOptions": "RevokedAccess",
         "DepartmentInstitute": "Danish Health Data Authority",
         "ContactPerson": "Mikkel Nielsen",
-        "ClientId": "355in88l-8k8m-2nkj-ij8j-lil746391ki4",
-        "DomainId": "5i32118n-j592-2850-hlkj-4i7l4j31i621",
+        "ClientId": "m235962k-9jj7-3n19-k4mj-2334952213m4",
+        "DomainId": "n3292nn0-031n-3741-kn52-nionnnm20n5i",
         "PlannedCheck": false,
         "PlannedDate": null,
         "Created": "2023-03-20T13:40:30.7890123",
@@ -740,5 +740,35 @@
       }
 
 
+    ],
+    "domains": [
+        {
+            "id": "7a54330f-b714-4072-9bdb-6a9e6b53a843",
+            "name": "Finans"
+        },
+        {
+            "id": "n3292nn0-031n-3741-kn52-nionnnm20n5i",
+            "name": "Global"
+        },
+        {
+            "id": "m2181mm9-920m-2630-jm41-mhnmmkl19m4h",
+            "name": "CPH"
+        },
+        {
+            "id": "k0969kk7-708k-0418-hk29-kfklkij97k2f",
+            "name": "HR"
+        },
+        {
+            "id": "j9858jj6-697j-9307-gj18-jejkjhi86j1e",
+            "name": "Jylland"
+        },
+        {
+            "id": "g6525gg3-364g-6074-dg85-gbfggef53g8b",
+            "name": "Fyn"
+        },
+        {
+            "id": "7a54330f-b714-4072-9bdb-6a9e6b53a843",
+            "name": "Research"
+        } 
     ]
 }
