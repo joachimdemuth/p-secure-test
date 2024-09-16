@@ -4,8 +4,7 @@ Frontend test
 2. Undgå at bruge UI libraries som shadcn. Byg i stedet for dine egne genbrugelige komponenter, hvor det er muligt.
 3. Brug gerne Tailwind til css (Tailwind er installeret).
 
-Push koden til dette repository https://github.com/joachimdemuth/p-secure-test.git enten til main eller lav din egen branch.
-
+Når du er færdig kan du pushe koden til main branchen eller lave din egen branch.
 
 API Baseurl: https://my-json-server.typicode.com/joachimdemuth/p-secure-test
 
