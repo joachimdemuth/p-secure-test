@@ -1,0 +1,22 @@
+{
+    "cases": [
+        {
+            "id": 1,
+            "title": "Case 1",
+            "description": "This is the first case",
+            "image": "https://via.placeholder.com/600x400"
+        },
+        {
+            "id": 2,
+            "title": "Case 2",
+            "description": "This is the second case",
+            "image": "https://via.placeholder.com/600x400"
+        },
+        {
+            "id": 3,
+            "title": "Case 3",
+            "description": "This is the third case",
+            "image": "https://via.placeholder.com/600x400"
+        }
+    ]
+}
