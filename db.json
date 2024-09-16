@@ -29,6 +29,26 @@
         "id": "f6a7b8c9-d0e1-9f0a-3b2c-4d5e6f7a8b9c",
         "firstName": "Agatha",
         "lastName": "Christie"
+      },
+      {
+        "id": "a7b8c9d0-e1f2-0a1b-4c5d-6e7f8a9b0c1d",
+        "firstName": "Gabriel",
+        "lastName": "García Márquez"
+      },
+      {
+        "id": "b8c9d0e1-f2a3-1b2c-5d6e-7f8a9b0c1d2e",
+        "firstName": "Virginia",
+        "lastName": "Woolf"
+      },
+      {
+        "id": "c9d0e1f2-a3b4-2c3d-6e7f-8a9b0c1d2e3f",
+        "firstName": "Leo",
+        "lastName": "Tolstoy"
+      },
+      {
+        "id": "d0e1f2a3-b4c5-3d4e-7f8a-9b0c1d2e3f4a",
+        "firstName": "Mark",
+        "lastName": "Twain"
       }
     ],
     "books": [
@@ -79,6 +99,38 @@
         "publicationYear": 1934,
         "isbn": "9780007119318",
         "genre": "Mystery"
+      },
+      {
+        "id": "a3b2c1d0-e9f8-0a7b-4c3d-5e6f7a8b9c0d",
+        "title": "One Hundred Years of Solitude",
+        "authorId": "a7b8c9d0-e1f2-0a1b-4c5d-6e7f8a9b0c1d",
+        "publicationYear": 1967,
+        "isbn": "9780060883287",
+        "genre": "Magical Realism"
+      },
+      {
+        "id": "b2c1d0e9-f8a7-1b6c-5d4e-6f7a8b9c0d1e",
+        "title": "Mrs. Dalloway",
+        "authorId": "b8c9d0e1-f2a3-1b2c-5d6e-7f8a9b0c1d2e",
+        "publicationYear": 1925,
+        "isbn": "9780156628709",
+        "genre": "Modernist"
+      },
+      {
+        "id": "c1d0e9f8-a7b6-2c5d-6e4f-7a8b9c0d1e2f",
+        "title": "War and Peace",
+        "authorId": "c9d0e1f2-a3b4-2c3d-6e7f-8a9b0c1d2e3f",
+        "publicationYear": 1869,
+        "isbn": "9781400079988",
+        "genre": "Historical Fiction"
+      },
+      {
+        "id": "d0e9f8a7-b6c5-3d4e-7f5a-8b9c0d1e2f3a",
+        "title": "The Adventures of Huckleberry Finn",
+        "authorId": "d0e1f2a3-b4c5-3d4e-7f8a-9b0c1d2e3f4a",
+        "publicationYear": 1884,
+        "isbn": "9780142437179",
+        "genre": "Adventure"
       }
     ],
     "members": [
@@ -116,6 +168,41 @@
         "lastName": "Brown",
         "email": "david.brown@email.com",
         "membershipDate": "2023-01-20"
+      },
+      {
+        "id": "f2a1b0c9-d8e7-9f6a-3b2c-4d5e6f7a8b9c",
+        "firstName": "Olivia",
+        "lastName": "Jones",
+        "email": "olivia.jones@email.com",
+        "membershipDate": "2023-02-14"
+      },
+      {
+        "id": "a1b0c9d8-e7f6-0a5b-4c3d-5e6f7a8b9c0d",
+        "firstName": "Daniel",
+        "lastName": "Taylor",
+        "email": "daniel.taylor@email.com",
+        "membershipDate": "2023-03-30"
+      },
+      {
+        "id": "b0c9d8e7-f6a5-1b4c-5d3e-6f7a8b9c0d1e",
+        "firstName": "Sophia",
+        "lastName": "Anderson",
+        "email": "sophia.anderson@email.com",
+        "membershipDate": "2023-04-18"
+      },
+      {
+        "id": "c9d8e7f6-a5b4-2c3d-6e4f-7a8b9c0d1e2f",
+        "firstName": "Matthew",
+        "lastName": "Wilson",
+        "email": "matthew.wilson@email.com",
+        "membershipDate": "2023-05-02"
+      },
+      {
+        "id": "d8e7f6a5-b4c3-3d2e-7f5a-8b9c0d1e2f3a",
+        "firstName": "Emily",
+        "lastName": "Thomas",
+        "email": "emily.thomas@email.com",
+        "membershipDate": "2023-05-20"
       }
     ],
     "loans": [
@@ -157,8 +244,36 @@
       {
         "id": "f0a9b8c7-d6e5-9f4a-3b2c-4d5e6f7a8b9c",
         "bookId": "f4a3b2c1-d0e9-9f8a-3b2c-4d5e6f7a8b9c",
-        "memberId": "a7b6c5d4-e3f2-4a1b-8c7d-9e0f1a2b3c4d",
+        "memberId": "f2a1b0c9-d8e7-9f6a-3b2c-4d5e6f7a8b9c",
         "loanDate": "2023-04-20",
+        "returnDate": null
+      },
+      {
+        "id": "a9b8c7d6-e5f4-4a3b-8c7d-9e0f1a2b3c4d",
+        "bookId": "a9b8c7d6-e5f4-4a3b-8c7d-9e0f1a2b3c4d",
+        "memberId": "a7b6c5d4-e3f2-4a1b-8c7d-9e0f1a2b3c4d",
+        "loanDate": "2023-03-15",
+        "returnDate": "2023-03-29"
+      },
+      {
+        "id": "j3j2k1l1-m0n9-o8p7-q6r5-s4t3u2v1w0h9",
+        "bookId": "b8c7d6e5-f4a3-5b4c-9d8e-0f1a2b3c4d5e",
+        "memberId": "b6c5d4e3-f2a1-5b2c-9d8e-0f1a2b3c4d5e",
+        "loanDate": "2023-04-01",
+        "returnDate": null
+      },
+      {
+        "id": "a9b8c7d6-e5f4-4a3b-8c7d-9e0f1a2b3c4d",
+        "bookId": "c7d6e5f4-a3b2-6c5d-0e9f-1a2b3c4d5e6f",
+        "memberId": "c5d4e3f2-a1b0-6c3d-0e9f-1a2b3c4d5e6f",
+        "loanDate": "2023-04-05",
+        "returnDate": "2023-04-19"
+      },
+      {
+        "id": "j5k3o9j4-7u6i-5t4r-3e2w-1q0p",
+        "bookId": "d6e5f4a3-b2c1-7d6e-1f0a-2b3c4d5e6f7a",
+        "memberId": "d4e3f2a1-b0c9-7d4e-1f0a-2b3c4d5e6f7a",
+        "loanDate": "2023-04-10",
         "returnDate": null
       }
     ]
