@@ -1,7 +1,7 @@
 Frontend opgave
 
 Det lokale bibliotek ønsker en app, hvor de kan få et overblik over deres bøger, deres medlemmer og hvilke medlemmer der har lånt hvilke bøger. 
-Deres data ligger på denne API: https://my-json-server.typicode.com/joachimdemuth/p-secure-test
+Deres data ligger på denne API: https://my-json-server.typicode.com/joachimdemuth/p-secure-test-data
 Og indeholder disse fire dataobjekter: Books, Authors, Members, Loans.
 
 1. Med udgangspunkt i den udleverede API, lav en web app som præsenterer de forskellige datapunkter. Du har helt frie rammer til at designe/bygge en app. 
